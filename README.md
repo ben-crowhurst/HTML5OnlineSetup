@@ -1,4 +1,4 @@
-HTML5 Online Setup
+HTML5 Online Spike
 ==============
 
 Example HTML5 'navigator.onLine' functionality.
